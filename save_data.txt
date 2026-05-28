@@ -1,0 +1,2 @@
+name: karis day: 20 mood: happy wins: 8 losses: 1 poke_name: Charmeleon health: 5 victory: False  max_health: 15 
+name: yo day: 1 mood: indifferent wins: 0 losses: 0 poke_name: Charmander health: 5 victory: False  max_health: 5 

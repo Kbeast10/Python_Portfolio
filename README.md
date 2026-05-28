@@ -10,7 +10,7 @@ This collection showcases a diverse range of Python projects that I've developed
 
 - [CS4IL Problem: Rectangles](rectangles3.py): A program which calculates the area of the union between a given amount of rectangles with the given dimensions. This serves as the solution to a complicated problem from the competition, CS4IL. This program is intended to be very efficent and can withstand incredibly large amounts of input without significant delay.
 
-- [Pokemon Simulator](pokemon.py): A small pokemon game in which the user gets to choose their starter and engage in battles with other pokemon and gym leaders only after the user has leveled up. This program features [ASCII art](poke_art.txt) and [saves](save_data.txt) the users progress over multiple games which are included in separate text files.
+- [Pokemon Simulator](pokemon.py): A small pokemon game in which the user gets to choose their starter and engage in battles with other pokemon and gym leaders only after the user has leveled up. This program features [ASCII art](poke_art.txt) and [saves](poke_save_data.txt) the users progress over multiple games which are included in separate text files.
 
 - [Mystery Adventure](adventure.py): This small program features a small storyline controlled by a complex web of if statements, in order to make the product of an interactive text-adventure game.
 
